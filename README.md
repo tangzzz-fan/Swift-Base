@@ -65,3 +65,7 @@
 - **内存管理**：ARC、CoW、Weak Reference、Side Table
 - **类型系统**：泛型、Opaque Types、Existential Types、Type Erasure
 - **性能优化**：编译优化、Render Loop、方法分发策略
+
+---
+
+> 这里没有废话，全是干货。
